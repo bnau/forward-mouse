@@ -9,7 +9,7 @@
 #endif
 
 const int RECV_PIN = 2;
-const String ACTIVATION_CODE = "617008f7"; // code d'activation de la souris (envoyé par la télécommande universelle)
+const String ACTIVATION_CODE = "5c3aed17"; // code d'activation de la souris (envoyé par la télécommande universelle)
 
 IRrecv irrecv(RECV_PIN);
 decode_results results;
@@ -69,10 +69,10 @@ void setup()
 void loop()
 {
   if (irrecv.decode(&results)) {
-    
+    Serial.println(String(results.value, HEX));
     if(String(results.value, HEX) == ACTIVATION_CODE){ 
       isActive = !isActive;
-      // Serial.println("Souris active : " + String(isActive));
+       Serial.println("Souris active : " + String(isActive));
     }
     irrecv.resume(); // Receive the next value
   }
