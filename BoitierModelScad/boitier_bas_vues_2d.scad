@@ -35,7 +35,7 @@ difference(){
                 cylinder(d=6+2*MARGIN, h=20, $fn=100);
         
         // trou pour USB
-        translate([-10, 32+LARGEUR_D-MARGIN, 17-MARGIN+HAUTEUR_BAS])
+        translate([-10, 30+LARGEUR_D-MARGIN, 17-MARGIN+HAUTEUR_BAS])
 			cube([20, 15+2*MARGIN, 10+2*MARGIN]);
             
         // trou pour mini-USB
@@ -65,8 +65,8 @@ create_boitier();
 
 // vue de derrière (diode)
 //projection(cut = true){
-//    translate([0,0,LONGUEUR+EPAISSEUR/2]) {
-//        rotate([0,90,0]) {
+//    translate([0,0,-LONGUEUR-EPAISSEUR/2]) {
+//        rotate([0,270,0]) {
 //            create_boitier();
 //        }
 //    }
