@@ -10,11 +10,13 @@ PROF_SUPPORT = 10; // z
 ECART_SUPPORT = 190;
 
 LONG_HOR = 10; // y
-LARG_HOR = 260; // x
+LARG_HOR = 265; // x
 PROF_HOR = PROF_SUPPORT; // z
 
 HAUT_HOR_B = 60; // hauteur de la barre du bas.
 HAUT_HOR_H = 180; // hauteur de la barre du bas.
+
+
 
 union(){
     // cylindres
@@ -36,14 +38,35 @@ union(){
             cube([LARG_SUPPORT,LONG_SUPPORT,PROF_SUPPORT]);
     
     // barres horizontales
+    
+    // barre du bas avec gouttière
     rotate([60,0,0])
         translate([(ECART_SUPPORT+LARG_SUPPORT-LARG_HOR)/2,HAUT_HOR_B,0])
-            cube([LARG_HOR,LONG_HOR,PROF_HOR]);
-            
+            difference(){
+                cube([LARG_HOR,LONG_HOR,PROF_HOR+15]);
+                translate([2,2,PROF_SUPPORT]){
+                    cube([LARG_HOR-4,LONG_HOR-2,PROF_HOR+10-PROF_SUPPORT]);
+                }
+            };
+    
+    // barre du haut avec crochets  
     rotate([60,0,0])
         translate([(ECART_SUPPORT+LARG_SUPPORT-LARG_HOR)/2,HAUT_HOR_H,0])
-            cube([LARG_HOR,LONG_HOR,PROF_HOR]);
+            difference(){
+            cube([LARG_HOR+4,LONG_HOR,PROF_HOR+12]);
+            union(){
+                translate([2,-1,PROF_SUPPORT]){
+                    cube([LARG_HOR,LONG_HOR+5,10]);
+                }
+                translate([5,-1,PROF_SUPPORT]){
+                    cube([LARG_HOR+4-10,LONG_HOR+5,100]);
+            }
+       
+            }
+     }
     
-   
+    /*rotate([60,0,0])
+        translate([LARG_SUPPORT+2,HAUT_HOR_B,0])
+            cube([LARG_SUPPORT,LONG_SUPPORT,PROF_SUPPORT]);*/
 }
 
