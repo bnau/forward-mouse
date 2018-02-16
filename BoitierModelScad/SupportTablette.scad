@@ -21,14 +21,14 @@ use <nuts_and_bolts_v1.95.scad>
 module rondVissable(){
         cylinder(h=LARG_SUPPORT, r=10);
     }
-module trouVis(){
+module vis(){
     rotate([0,90,0])
-        hex_bolt (3/8, 2/8, 1/8, 3/8, 1/128, 32, 1, "metric", 28); 
+        hex_bolt (40, 20, 5, 5, 0.01, 32, 1, "metric", 28);
     }
 
 module barreVerticale(){
     rotate([60,0,0])
-        difference(){
+        //difference(){
             // barre avec bout rond
             union(){
                     cube([LARG_SUPPORT,LONG_SUPPORT,PROF_SUPPORT]);
@@ -36,14 +36,15 @@ module barreVerticale(){
                         rondVissable();
             };  
            // trou de la vis
-            trouVis();
-    }  
+           //vis();
+    //}  
 }
-
-translate([-20,0,0])
+/*
+translate([-100,0,0])
+    vis();*/
     /*translate ([-10, 0, 0]) 
         hex_nut (1/8, 1/4, 3/8, 1/128, 32, 1, "imperial", 28);*/
-hex_bolt (3/8, 2/8, 1/8, 3/8, 1/128, 32, 1, "imperial", 28);
+//hex_bolt (3/8, 2/8, 1/8, 3/8, 1/128, 32, 1, "imperial", 28);
 
 
 module support() {
