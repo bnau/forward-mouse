@@ -24,10 +24,8 @@ protected:
 void MouseRptParser::OnMouseMove(MOUSEINFO *mi)
 { 
 
-    Serial.print("#S|LOGTEST|[");
-    Serial.print(String(mi->dX));
-    Serial.print(" " + String(mi->dY));
-    Serial.println("]#");
+    Serial.print("souris bouge " + String(mi->dX));
+    Serial.println(" " + String(mi->dY));
 
     if(isActive) Mouse.move(mi->dX, mi->dY);
       //Serial.println("dX: " + String(mi->dX) + " dY : " + String(mi->dY));
@@ -35,16 +33,12 @@ void MouseRptParser::OnMouseMove(MOUSEINFO *mi)
 };
 void MouseRptParser::OnLeftButtonUp (MOUSEINFO *mi)
 {
-    Serial.print("#S|LOGTEST|[");
     Serial.print("RELACHE_CLIC");
-    Serial.println("]#");
     if(isActive) Mouse.release(MOUSE_LEFT);
 };
 void MouseRptParser::OnLeftButtonDown (MOUSEINFO *mi)
 {
-    Serial.print("#S|LOGTEST|[");
     Serial.print("CLIC_ACTIF");
-    Serial.println("]#");
     if(isActive) Mouse.press(MOUSE_LEFT);
 };
 
@@ -75,9 +69,7 @@ if (irrecv.decode(&results)) {
     if(String(results.value, HEX) == "617008f7"){ 
       isActive = !isActive;
     }
-    Serial.print("#S|LOGTEST|[");
-    Serial.print(String(results.value, HEX));
-    Serial.println("]#");
+    Serial.println(String(results.value, HEX));
     irrecv.resume(); // Receive the next value
   }
   Usb.Task();
