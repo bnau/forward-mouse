@@ -1,5 +1,5 @@
 coef = 10;
-rotate([0,90,0])
+
 difference() {
 	union() {
 		translate([0,0,.08*coef]) cylinder(h=.16*coef,r=2.05*coef,$fn=72,center=true);
