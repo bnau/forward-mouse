@@ -1,4 +1,4 @@
-diam=.85;
+diam=.8;
 /*
 difference() {
     cylinder(h=15,r=diam,$fn=72);
