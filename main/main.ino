@@ -17,6 +17,9 @@ decode_results results;
 
 int compteurSequenceArret = 0;
 bool isActive = true;
+      int clic=0;
+      int x=0;
+      int y=0;
 
 // Map code - souris
 String xNoCLic[40] = {
@@ -101,7 +104,7 @@ String xCLic[40] = {
   };
 
   // Map code - souris
-String y[40] = {
+String ySignals[40] = {
     "00000000",
     "00000000",
     "00000000",
@@ -197,7 +200,37 @@ void loop()
       isActive = !isActive;
        Serial.println("Souris active : " + String(isActive));
     }
+      int tmpIndex=-18;
+      for (int i=0; i<sizeof(xNoCLic); i++) {
+        if(xNoCLic[i]==(String(results.value, HEX))) {
+          clic=0;
+          x=tmpIndex;
+        }
+        tmpIndex++;
+      }
+      tmpIndex=-18;
+      for (int i=0; i<sizeof(xCLic); i++) {
+        if(xCLic[i]==(String(results.value, HEX))) {
+          clic=1;
+          x=tmpIndex;
+        }
+        tmpIndex++;
+      }
+      if(clic==1) {
+        Mouse.press();
+      } else {
+        Mouse.release();
+      }
+      tmpIndex=-18;
+      for (int i=0; i<sizeof(ySignals); i++) {
+        if(ySignals[i]==(String(results.value, HEX))) {
+          y=tmpIndex;
+       //Serial.println("x: " + String(x) + "y: " + String(y));
+      // Mouse.move(x,y,0);
+        }
+        tmpIndex++;
+      }
     irrecv.resume(); // Receive the next value
   }
-  Usb.Task();
+  //Usb.Task();
 }
