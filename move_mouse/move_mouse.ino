@@ -17,12 +17,13 @@ decode_results results;
 
 int compteurSequenceArret = 0;
 bool isActive = true;
-      int clic=0;
-      int x=0;
-      int y=0;
-
+int clic=0;
+int x=0;
+int y=0;
+int sizeArray = 37;
+ 
 // Map code - souris
-String xNoCLic[40] = {
+const char* xNoCLic[] = {
     "3b9592da",
     "00000000",
     "00000000",
@@ -63,7 +64,7 @@ String xNoCLic[40] = {
   };
 
 // Map code - souris
-String xCLic[40] = {
+const char* xCLic[] = {
     "de833e19",
     "00000000",
     "00000000",
@@ -104,7 +105,7 @@ String xCLic[40] = {
   };
 
   // Map code - souris
-String ySignals[40] = {
+const char* ySignals[] = {
     "00000000",
     "00000000",
     "00000000",
@@ -143,7 +144,7 @@ String ySignals[40] = {
     "00000000",
     "83246f44"
   };
-  
+/*  
 class MouseRptParser : public MouseReportParser
 {
 protected:
@@ -153,12 +154,12 @@ protected:
 };
 void MouseRptParser::OnMouseMove(MOUSEINFO *mi)
 { 
-    /*
-    Serial.print("dx=");
-    Serial.print(mi->dX, DEC);
-    Serial.print(" dy=");
-    Serial.println(mi->dY, DEC);
-    */
+    
+//    Serial.print("dx=");
+//    Serial.print(mi->dX, DEC);
+//    Serial.print(" dy=");
+//    Serial.println(mi->dY, DEC);
+    
     if(isActive) Mouse.move(mi->dX, mi->dY);
 };
 void MouseRptParser::OnLeftButtonUp (MOUSEINFO *mi)
@@ -170,67 +171,76 @@ void MouseRptParser::OnLeftButtonDown (MOUSEINFO *mi)
 {
     //Serial.println("L Butt Dn");
     if(isActive) Mouse.press(MOUSE_LEFT);
-};
+};*/
 
-USB     Usb;
-USBHub     Hub(&Usb);
-HIDBoot<USB_HID_PROTOCOL_MOUSE>    HidMouse(&Usb);
-MouseRptParser                               Prs;
+//USB     Usb;
+//USBHub     Hub(&Usb);
+//HIDBoot<USB_HID_PROTOCOL_MOUSE>    HidMouse(&Usb);
+//MouseRptParser                               Prs;
 void setup()
 {
-    Serial.begin( 115200 );
+  
+    //Serial.begin( 115200 );
    /*
 #if !defined(__MIPSEL__)
     while (!Serial); // Wait for serial port to connect - used on Leonardo, Teensy and other boards with built-in USB CDC serial connection
 #endif
   */
-    Serial.println("Start");
-    if (Usb.Init() == -1)
-        Serial.println("OSC did not start.");
-    delay( 200 );
-    HidMouse.SetReportParser(0, &Prs);
+  
+//    Serial.println("Start");
+//    if (Usb.Init() == -1)
+//        Serial.println("OSC did not start.");
+//    delay( 200 );
+//    HidMouse.SetReportParser(0, &Prs);
     Mouse.begin();
     irrecv.enableIRIn(); // Start the receiver
 }
+bool isEqual(char ref[], String myValue){
+  bool result = true;
+  for(int i=0; i < myValue.length();i++){
+    if(myValue[i] != ref[i]){
+        return false;
+      }
+    } 
+    return result;
+}
+
 void loop()
 {
   if (irrecv.decode(&results)) {
-    Serial.println(String(results.value, HEX));
+    //Serial.println(String(results.value, HEX));
     if(String(results.value, HEX) == ACTIVATION_CODE){ 
       isActive = !isActive;
-       Serial.println("Souris active : " + String(isActive));
+       //Serial.println("Souris active : " + String(isActive));
     }
-      int tmpIndex=-18;
-      for (int i=0; i<sizeof(xNoCLic); i++) {
-        if(xNoCLic[i]==(String(results.value, HEX))) {
+      for (int i=0; i<sizeArray; i++) {
+        if(isEqual(xNoCLic[i],String(results.value, HEX))) {
           clic=0;
-          x=tmpIndex;
+          x = i-18;
+          break;
         }
-        tmpIndex++;
       }
-      tmpIndex=-18;
-      for (int i=0; i<sizeof(xCLic); i++) {
-        if(xCLic[i]==(String(results.value, HEX))) {
+
+      for (int i=0; i<sizeArray; i++) {
+        if(isEqual(xCLic[i],(String(results.value, HEX)))) {
           clic=1;
-          x=tmpIndex;
+          x = i-18;
+          break;
         }
-        tmpIndex++;
       }
       if(clic==1) {
         Mouse.press();
       } else {
         Mouse.release();
       }
-      tmpIndex=-18;
-      for (int i=0; i<sizeof(ySignals); i++) {
-        if(ySignals[i]==(String(results.value, HEX))) {
-          y=tmpIndex;
-       //Serial.println("x: " + String(x) + "y: " + String(y));
-      // Mouse.move(x,y,0);
+      for (int i=0; i<sizeArray; i++) {
+        if(isEqual(ySignals[i],(String(results.value, HEX)))) {
+          y=i-18;
+          Mouse.move(x,y);
+          break;
         }
-        tmpIndex++;
       }
     irrecv.resume(); // Receive the next value
+    //Serial.println("x: " + String(x) + "y: " + String(y));
   }
-  //Usb.Task();
 }
