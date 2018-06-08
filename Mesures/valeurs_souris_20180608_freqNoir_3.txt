@@ -1,0 +1,699 @@
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 18
+valeurs boitier : 1 18
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 18
+valeurs boitier : 0 18
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 18
+valeurs boitier : 1 18
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 18
+valeurs boitier : 1 18
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 18
+valeurs boitier : 2 18
+decaaf25
+Values from move_mouse : x: 2y: 0
+valeurs boitier : 2 2
+valeurs boitier : 10 2
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 0
+valeurs boitier : 18 -1
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 -1
+valeurs boitier : 18 -3
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 -3
+valeurs boitier : 18 -6
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 -6
+valeurs boitier : 18 -10
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 -10
+valeurs boitier : 18 -10
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 -10
+valeurs boitier : 18 -14
+4af66d79
+Values from move_mouse : x: 18y: 0
+valeurs boitier : 18 -14
+valeurs boitier : 18 -14
+valeurs boitier : 6 -14
+71df3081
+Values from move_mouse : x: 6y: 0
+valeurs boitier : 6 -18
+valeurs boitier : 3 -18
+d3ac70c2
+Values from move_mouse : x: 3y: 0
+valeurs boitier : 3 -18
+valeurs boitier : 0 -18
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -10
+valeurs boitier : -14 -10
+46b3d13d
+Values from move_mouse : x: -14y: 0
+valeurs boitier : -14 -6
+ef24cc43
+Values from move_mouse : x: -14y: -6
+valeurs boitier : -18 -6
+valeurs boitier : -18 -6
+ef24cc43
+Values from move_mouse : x: -14y: -6
+valeurs boitier : -18 -6
+valeurs boitier : -18 -6
+ef24cc43
+Values from move_mouse : x: -14y: -6
+valeurs boitier : -18 -6
+valeurs boitier : -18 -6
+ef24cc43
+Values from move_mouse : x: -14y: -6
+valeurs boitier : -18 -6
+valeurs boitier : -18 -6
+ef24cc43
+Values from move_mouse : x: -14y: -6
+valeurs boitier : -18 -6
+b99cc67a
+Values from move_mouse : x: -14y: -3
+valeurs boitier : -18 -3
+valeurs boitier : -18 -3
+valeurs boitier : -18 -3
+b99cc67a
+Values from move_mouse : x: -14y: -3
+valeurs boitier : -18 -3
+valeurs boitier : -18 -2
+c4bb04dd
+Values from move_mouse : x: -14y: -2
+valeurs boitier : -18 -2
+valeurs boitier : -18 -1
+de833e19
+Values from move_mouse : x: -18y: -1
+3b9592da
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 -1
+valeurs boitier : -18 0
+6bd415e2
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+valeurs boitier : -18 1
+67b90ec
+Values from move_mouse : x: -18y: 1
+valeurs boitier : -18 1
+3b9592da
+Values from move_mouse : x: -18y: 1
+valeurs boitier : -18 2
+eb40c2
+Values from move_mouse : x: -18y: 2
+valeurs boitier : -18 2
+3b9592da
+Values from move_mouse : x: -18y: 2
+valeurs boitier : -18 2
+eb40c2
+Values from move_mouse : x: -18y: 2
+valeurs boitier : -18 2
+3b9592da
+Values from move_mouse : x: -18y: 2
+valeurs boitier : -18 6
+a80d2f26
+Values from move_mouse : x: -18y: 6
+valeurs boitier : -14 6
+valeurs boitier : -14 10
+1abc575d
+Values from move_mouse : x: -18y: 10
+valeurs boitier : -14 10
+1abc575d
+Values from move_mouse : x: -18y: 10
+valeurs boitier : -14 10
+valeurs boitier : -14 10
+8e42ada7
+Values from move_mouse : x: -18y: 14
+valeurs boitier : -14 14
+valeurs boitier : -18 14
+8e42ada7
+Values from move_mouse : x: -18y: 14
+valeurs boitier : -18 14
+valeurs boitier : -18 14
+8e42ada7
+Values from move_mouse : x: -18y: 14
+valeurs boitier : -18 14
+valeurs boitier : -18 14
+1abc575d
+Values from move_mouse : x: -18y: 10
+valeurs boitier : -18 10
+valeurs boitier : -18 10
+1abc575d
+Values from move_mouse : x: -18y: 10
+valeurs boitier : -18 10
+valeurs boitier : -18 10
+8f6735e5
+Values from move_mouse : x: -18y: 0
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+valeurs boitier : -18 -1
+de833e19
+Values from move_mouse : x: -18y: -1
+3b9592da
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 -1
+c4bb04dd
+Values from move_mouse : x: -18y: -2
+valeurs boitier : -18 -2
+valeurs boitier : -18 -2
+valeurs boitier : -18 -3
+b99cc67a
+Values from move_mouse : x: -18y: -3
+valeurs boitier : -18 -3
+valeurs boitier : -18 -10
+61d3f476
+Values from move_mouse : x: -18y: -10
+3b9592da
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+valeurs boitier : -18 -14
+d35a479a
+Values from move_mouse : x: -18y: -14
+valeurs boitier : -14 -14
+46b3d13d
+Values from move_mouse : x: -14y: -14
+valeurs boitier : -14 -10
+61d3f476
+Values from move_mouse : x: -14y: -10
+46b3d13d
+Values from move_mouse : x: -14y: -10
+valeurs boitier : -14 -10
+valeurs boitier : -14 -14
+d35a479a
+Values from move_mouse : x: -14y: -14
+d792adc7
+Values from move_mouse : x: -10y: -14
+valeurs boitier : -10 -14
+ef24cc43
+Values from move_mouse : x: -10y: -6
+valeurs boitier : -10 -6
+valeurs boitier : 0 -6
+valeurs boitier : 0 -3
+b99cc67a
+Values from move_mouse : x: -10y: -3
+valeurs boitier : 3 -3
+valeurs boitier : 3 -6
+ef24cc43
+Values from move_mouse : x: -10y: -6
+valeurs boitier : 14 -6
+valeurs boitier : 14 -3
+b99cc67a
+Values from move_mouse : x: -10y: -3
+valeurs boitier : 14 -3
+valeurs boitier : 14 -3
+b99cc67a
+Values from move_mouse : x: -10y: -3
+valeurs boitier : 14 -3
+valeurs boitier : 14 -1
+de833e19
+Values from move_mouse : x: -18y: -1
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 -1
+valeurs boitier : 6 -1
+valeurs boitier : 6 -1
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 -1
+valeurs boitier : 14 -1
+5a14b224
+Values from move_mouse : x: 14y: -1
+valeurs boitier : 14 -1
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 -1
+valeurs boitier : 10 0
+d3ac70c2
+Values from move_mouse : x: 3y: -1
+valeurs boitier : 3 0
+valeurs boitier : 3 0
+decaaf25
+Values from move_mouse : x: 2y: -1
+valeurs boitier : 2 0
+valeurs boitier : 2 0
+valeurs boitier : 3 0
+d3ac70c2
+Values from move_mouse : x: 3y: -1
+valeurs boitier : 3 0
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 0
+valeurs boitier : 6 0
+5a14b224
+Values from move_mouse : x: 14y: -1
+valeurs boitier : 14 0
+valeurs boitier : 14 -1
+5a14b224
+Values from move_mouse : x: 14y: -1
+valeurs boitier : 14 -1
+valeurs boitier : 14 0
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 0
+valeurs boitier : 6 6
+decaaf25
+Values from move_mouse : x: 2y: -1
+valeurs boitier : 2 6
+valeurs boitier : 2 14
+valeurs boitier : 1 14
+f892e861
+Values from move_mouse : x: 1y: -1
+valeurs boitier : 1 14
+valeurs boitier : 1 14
+f892e861
+Values from move_mouse : x: 1y: -1
+valeurs boitier : 1 18
+valeurs boitier : 1 18
+f892e861
+Values from move_mouse : x: 1y: -1
+valeurs boitier : 1 18
+valeurs boitier : 2 18
+decaaf25
+Values from move_mouse : x: 2y: -1
+valeurs boitier : 2 14
+valeurs boitier : 3 14
+d3ac70c2
+Values from move_mouse : x: 3y: -1
+valeurs boitier : 3 1
+valeurs boitier : 10 1
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 0
+4af66d79
+Values from move_mouse : x: 18y: -1
+valeurs boitier : 18 0
+valeurs boitier : 18 0
+5a14b224
+Values from move_mouse : x: 14y: -1
+valeurs boitier : 14 0
+valeurs boitier : 14 0
+5a14b224
+Values from move_mouse : x: 14y: -1
+valeurs boitier : 14 0
+valeurs boitier : 14 0
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 0
+valeurs boitier : 6 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 0
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 0
+valeurs boitier : 6 -1
+valeurs boitier : 10 -1
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 -3
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 -3
+valeurs boitier : 10 -3
+e8f38b88
+Values from move_mouse : x: 10y: -1
+valeurs boitier : 10 -3
+valeurs boitier : 10 -3
+71df3081
+Values from move_mouse : x: 6y: -1
+valeurs boitier : 6 -3
+valeurs boitier : 6 -3
+valeurs boitier : 3 -3
+d3ac70c2
+Values from move_mouse : x: 3y: -1
+valeurs boitier : 3 -6
+valeurs boitier : 3 -6
+d3ac70c2
+Values from move_mouse : x: 3y: -1
+valeurs boitier : 3 -10
+decaaf25
+Values from move_mouse : x: 2y: -1
+valeurs boitier : 2 -10
+valeurs boitier : 2 -10
+valeurs boitier : 0 -10
+85e3c02a
+Values from move_mouse : x: 0y: -1
+valeurs boitier : 0 -6
+valeurs boitier : -2 -6
+50b1aa62
+Values from move_mouse : x: -2y: -1
+valeurs boitier : -2 -10
+valeurs boitier : -6 -10
+647e5908
+Values from move_mouse : x: -6y: -1
+valeurs boitier : -6 -6
+valeurs boitier : -18 -6
+3b9592da
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 -10
+61d3f476
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+3b9592da
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+61d3f476
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+3b9592da
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+61d3f476
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+3b9592da
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -10
+61d3f476
+Values from move_mouse : x: -18y: -10
+45936c03
+Values from move_mouse : x: -3y: -10
+valeurs boitier : -3 -10
+valeurs boitier : -3 -14
+valeurs boitier : -1 -14
+5641fa8c
+Values from move_mouse : x: -1y: -10
+valeurs boitier : -1 -14
+valeurs boitier : 0 -14
+85e3c02a
+Values from move_mouse : x: 0y: -10
+valeurs boitier : 0 -18
+valeurs boitier : 0 -18
+85e3c02a
+Values from move_mouse : x: 0y: -10
+valeurs boitier : 0 -18
+valeurs boitier : 0 -18
+df2d9f85
+Values from move_mouse : x: 0y: -10
+valeurs boitier : 0 -14
+3b9592da
+Values from move_mouse : x: -18y: -10
+valeurs boitier : -18 -14
+valeurs boitier : -18 -6
+ef24cc43
+Values from move_mouse : x: -18y: -6
+valeurs boitier : -18 -6
+valeurs boitier : -18 -2
+c4bb04dd
+Values from move_mouse : x: -18y: -2
+valeurs boitier : -18 -2
+valeurs boitier : -18 0
+6bd415e2
+Values from move_mouse : x: -18y: -2
+valeurs boitier : -3 0
+67b90ec
+Values from move_mouse : x: -18y: 1
+valeurs boitier : -3 1
+5641fa8c
+Values from move_mouse : x: -1y: 1
+valeurs boitier : -1 1
+valeurs boitier : -1 3
+valeurs boitier : -2 3
+50b1aa62
+Values from move_mouse : x: -2y: 1
+valeurs boitier : -2 10
+valeurs boitier : -3 10
+45936c03
+Values from move_mouse : x: -3y: 1
+valeurs boitier : -3 18
+valeurs boitier : -2 18
+50b1aa62
+Values from move_mouse : x: -2y: 1
+valeurs boitier : -2 18
+valeurs boitier : -2 18
+50b1aa62
+Values from move_mouse : x: -2y: 1
+valeurs boitier : -2 18
+valeurs boitier : -2 18
+50b1aa62
+Values from move_mouse : x: -2y: 1
+valeurs boitier : -2 18
+valeurs boitier : -3 18
+45936c03
+Values from move_mouse : x: -3y: 1
+valeurs boitier : -3 18
+valeurs boitier : -2 18
+50b1aa62
+Values from move_mouse : x: -2y: 1
+valeurs boitier : -2 18
+valeurs boitier : -2 18
+50b1aa62
+Values from move_mouse : x: -2y: 1
+valeurs boitier : -2 18
+valeurs boitier : 0 18
+df2d9f85
+Values from move_mouse : x: -2y: 1
+valeurs boitier : 0 18
+85e3c02a
+Values from move_mouse : x: 0y: 1
+valeurs boitier : 0 18
+valeurs boitier : 0 6
+valeurs boitier : 6 6
+71df3081
+Values from move_mouse : x: 6y: 1
+valeurs boitier : 6 -1
+valeurs boitier : 18 -1
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -3
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -3
+valeurs boitier : 18 -6
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -6
+valeurs boitier : 18 -3
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -3
+valeurs boitier : 18 -2
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -2
+valeurs boitier : 18 -1
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -1
+valeurs boitier : 18 -1
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -1
+valeurs boitier : 18 -1
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -1
+valeurs boitier : 18 -2
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -2
+valeurs boitier : 18 -2
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -2
+valeurs boitier : 18 -2
+valeurs boitier : 18 -2
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -2
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -2
+valeurs boitier : 18 -3
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -3
+valeurs boitier : 18 -2
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -2
+valeurs boitier : 18 -3
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -3
+valeurs boitier : 18 -3
+4af66d79
+Values from move_mouse : x: 18y: 1
+valeurs boitier : 18 -3
+valeurs boitier : 18 -6
+5a14b224
+Values from move_mouse : x: 14y: 1
+valeurs boitier : 14 -6
+valeurs boitier : 14 -3
+85e3c02a
+Values from move_mouse : x: 0y: 1
+valeurs boitier : 0 -3
+valeurs boitier : 0 -1
+valeurs boitier : -18 -1
+3b9592da
+Values from move_mouse : x: -18y: 1
+valeurs boitier : -18 -2
+c4bb04dd
+Values from move_mouse : x: -18y: -2
+valeurs boitier : -18 -2
+valeurs boitier : -18 -2
+c4bb04dd
+Values from move_mouse : x: -18y: -2
+valeurs boitier : -18 -2
+valeurs boitier : -18 -1
+de833e19
+Values from move_mouse : x: -18y: -1
+3b9592da
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 -1
+valeurs boitier : -18 -1
+de833e19
+Values from move_mouse : x: -18y: -1
+3b9592da
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 -1
+valeurs boitier : -18 -1
+de833e19
+Values from move_mouse : x: -18y: -1
+3b9592da
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 -1
+6bd415e2
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+6bd415e2
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+6bd415e2
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+6bd415e2
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+valeurs boitier : -18 0
+6bd415e2
+Values from move_mouse : x: -18y: -1
+valeurs boitier : -18 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+valeurs boitier : -18 0
+valeurs boitier : -10 0
+valeurs boitier : -10 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+L Butt Dn
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+8f6735e5
+Values from move_mouse : x: -18y: 0
+L Butt Up
+8f6735e5
+Values from move_mouse : x: -18y: 0

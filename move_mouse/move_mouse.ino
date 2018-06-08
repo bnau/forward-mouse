@@ -24,43 +24,43 @@ int sizeArray = 37;
  
 // Map code - souris
 const char* xNoCLic[] = {
-    "3b9592da",
+    "3b9592da",// -18 
+    "00000000",// -17
+    "00000000",// -16
+    "00000000",
+    "46b3d13d",// -14
     "00000000",
     "00000000",
     "00000000",
-    "46b3d13d",
+    "d792adc7", // -10
     "00000000",
     "00000000",
     "00000000",
-    "d792adc7",
+    "647e5908", // -6
+    "00000000",
+    "00000000",
+    "45936c03", // -3
+    "50b1aa62", // -2
+    "5641fa8c", // -1
+    "85e3c02a", // 0
+    "f892e861", // 1
+    "decaaf25", // 2
+    "d3ac70c2", //3
+    "00000000",
+    "00000000",
+    "71df3081", // 6 
     "00000000",
     "00000000",
     "00000000",
-    "647e5908",
-    "00000000",
-    "00000000",
-    "45936c03",
-    "50b1aa62",
-    "5641fa8c",
-    "85e3c02a",
-    "f892e861",
-    "decaaf25",
-    "d3ac70c2",
-    "00000000",
-    "00000000",
-    "71df3081",
+    "e8f38b88", // 10
     "00000000",
     "00000000",
     "00000000",
-    "e8f38b88",
+    "5a14b224", // 14
     "00000000",
     "00000000",
     "00000000",
-    "5a14b224",
-    "00000000",
-    "00000000",
-    "00000000",
-    "4af66d79"
+    "4af66d79" //18
   };
 
 // Map code - souris
@@ -125,8 +125,8 @@ const char* ySignals[] = {
     "c4bb04dd",
     "de833e19",
     "8f6735e5",
-    "067b90ec",
-    "00eb40c2",
+    "67b90ec",
+    "eb40c2",
     "f5cd0263",
     "00000000",
     "00000000",
@@ -195,14 +195,16 @@ void setup()
     Mouse.begin();
     irrecv.enableIRIn(); // Start the receiver
 }
-bool isEqual(char ref[], String myValue){
-  bool result = true;
-  for(int i=0; i < myValue.length();i++){
-    if(myValue[i] != ref[i]){
-        return false;
-      }
-    } 
-    return result;
+bool isEqual(char ref[], String myValue) {
+  if(myValue.length() != strlen(ref)){
+      return false;
+    }
+  for (int i = 0; i < myValue.length(); i++) {
+    if (myValue[i] != ref[i]) {
+      return false;
+    }
+  }
+  return true;
 }
 
 void loop()
@@ -241,6 +243,6 @@ void loop()
         }
       }
     irrecv.resume(); // Receive the next value
-    //Serial.println("x: " + String(x) + "y: " + String(y));
+    Serial.println("x: " + String(x) + " ; y: " + String(y));
   }
 }

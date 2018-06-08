@@ -1,0 +1,733 @@
+Values from move_mouse : x: -18y: 0
+8f6735e5
+
+85e3c02a
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+8f6735e5
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 1
+67b90ec
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 1 1
+valeurs boitier : 1 2
+eb40c2
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 1 2
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 3
+valeurs boitier : 1 3
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 3
+valeurs boitier : 1 3
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 3
+valeurs boitier : 1 3
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 3
+valeurs boitier : 1 3
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 3
+valeurs boitier : 1 3
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 3
+valeurs boitier : 0 3
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 6
+valeurs boitier : 0 6
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 3
+valeurs boitier : 0 3
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -1
+valeurs boitier : 0 -1
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -1
+valeurs boitier : 0 -1
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -2
+valeurs boitier : 0 -2
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -3
+valeurs boitier : 1 -3
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 -2
+valeurs boitier : 0 -2
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -2
+valeurs boitier : 0 -2
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -2
+valeurs boitier : 0 -2
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -2
+valeurs boitier : 0 -2
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -2
+valeurs boitier : 0 -2
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -3
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -3
+valeurs boitier : 0 -3
+valeurs boitier : 0 -3
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -3
+valeurs boitier : 0 -3
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+5641fa8c
+Values from move_mouse : x: -1y: 0
+valeurs boitier : -1 -6
+valeurs boitier : -1 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: -1y: 0
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: -1y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: -1y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -6
+df2d9f85
+Values from move_mouse : x: -1y: 0
+valeurs boitier : 0 -6
+valeurs boitier : 0 -10
+5641fa8c
+Values from move_mouse : x: -1y: 0
+valeurs boitier : -1 -10
+valeurs boitier : -1 -6
+valeurs boitier : -1 -6
+5641fa8c
+Values from move_mouse : x: -1y: 0
+valeurs boitier : -1 -10
+valeurs boitier : -1 -10
+5641fa8c
+Values from move_mouse : x: -1y: 0
+valeurs boitier : -1 -6
+valeurs boitier : -1 -6
+5641fa8c
+Values from move_mouse : x: -1y: 0
+valeurs boitier : -1 -3
+valeurs boitier : 0 -3
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+L Butt Dn
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+L Butt Up
+85e3c02a
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+L Butt Dn
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+ab2fdaa1
+Values from move_mouse : x: 0y: 0
+L Butt Up
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : 1 0
+f892e861
+Values from move_mouse : x: 1y: 0
+valeurs boitier : 1 0
+valeurs boitier : 2 0
+decaaf25
+Values from move_mouse : x: 2y: 0
+valeurs boitier : 2 0
+valeurs boitier : 3 0
+d3ac70c2
+Values from move_mouse : x: 3y: 0
+valeurs boitier : 3 0
+valeurs boitier : 3 0
+d3ac70c2
+Values from move_mouse : x: 3y: 0
+valeurs boitier : 3 0
+valeurs boitier : 6 0
+71df3081
+Values from move_mouse : x: 6y: 0
+valeurs boitier : 6 0
+valeurs boitier : 6 0
+71df3081
+Values from move_mouse : x: 6y: 0
+valeurs boitier : 6 0
+valeurs boitier : 6 0
+71df3081
+Values from move_mouse : x: 6y: 0
+valeurs boitier : 6 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+71df3081
+Values from move_mouse : x: 6y: 0
+valeurs boitier : 6 0
+valeurs boitier : 6 0
+valeurs boitier : 6 0
+71df3081
+Values from move_mouse : x: 6y: 0
+valeurs boitier : 6 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+e8f38b88
+Values from move_mouse : x: 10y: 0
+valeurs boitier : 10 0
+valeurs boitier : 10 0
+d3ac70c2
+Values from move_mouse : x: 3y: 0
+valeurs boitier : 3 0
+valeurs boitier : 3 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+85e3c02a
+Values from move_mouse : x: 0y: 0
+valeurs boitier : -2 0
+50b1aa62
+Values from move_mouse : x: -2y: 0
+valeurs boitier : -2 0
+valeurs boitier : -2 0
+50b1aa62
+Values from move_mouse : x: -2y: 0
+valeurs boitier : -2 0
+valeurs boitier : -3 0
+45936c03
+Values from move_mouse : x: -3y: 0
+valeurs boitier : -3 0
+valeurs boitier : -3 0
+45936c03
+Values from move_mouse : x: -3y: 0
+valeurs boitier : -3 0
+valeurs boitier : -3 0
+45936c03
+Values from move_mouse : x: -3y: 0
+valeurs boitier : -3 0
+valeurs boitier : -6 0
+647e5908
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+6bd415e2
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+6bd415e2
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -10 0
+6bd415e2
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -10 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -10 0
+valeurs boitier : -10 0
+6bd415e2
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -10 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -10 0
+valeurs boitier : -10 0
+valeurs boitier : -10 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -10 0
+valeurs boitier : -10 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -10 0
+valeurs boitier : -10 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -6 0
+valeurs boitier : -6 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+valeurs boitier : -3 0
+valeurs boitier : -3 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+L Butt Dn
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+8f6735e5
+Values from move_mouse : x: -6y: 0
+L Butt Up
+8f6735e5
+Values from move_mouse : x: -6y: 0
