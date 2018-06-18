@@ -23,126 +23,126 @@ int y = 0;
 int sizeArray = 37;
 
 // Map code - souris
-const char* xNoCLic[] = {
-    "3b9592da",// -18 
-    "00000000",// -17
-    "00000000",// -16
-    "00000000",
-    "46b3d13d",// -14
-    "00000000",
-    "00000000",
-    "00000000",
-    "d792adc7", // -10
-    "00000000",
-    "00000000",
-    "00000000",
-    "647e5908", // -6
-    "00000000",
-    "00000000",
-    "45936c03", // -3
-    "50b1aa62", // -2
-    "5641fa8c", // -1
-    "85e3c02a", // 0
-    "f892e861", // 1
-    "decaaf25", // 2
-    "d3ac70c2", //3
-    "00000000",
-    "00000000",
-    "71df3081", // 6 
-    "00000000",
-    "00000000",
-    "00000000",
-    "e8f38b88", // 10
-    "00000000",
-    "00000000",
-    "00000000",
-    "5a14b224", // 14
-    "00000000",
-    "00000000",
-    "00000000",
-    "4af66d79" // 18
+const long unsigned int xNoCLic[] = {
+    0x3b9592da,// -18 
+    0x00000000,// -17
+    0x00000000,// -16
+    0x00000000,
+    0x46b3d13d,// -14
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xd792adc7, // -10
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x647e5908, // -6
+    0x00000000,
+    0x00000000,
+    0x45936c03, // -3
+    0x50b1aa62, // -2
+    0x5641fa8c, // -1
+    0x85e3c02a, // 0
+    0xf892e861, // 1
+    0xdecaaf25, // 2
+    0xd3ac70c2, //3
+    0x00000000,
+    0x00000000,
+    0x71df3081, // 6 
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xe8f38b88, // 10
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x5a14b224, // 14
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x4af66d79 //18
   };
 
 // Map code - souris
-const char* xCLic[] = {
-    "de833e19",
-    "00000000",
-    "00000000",
-    "00000000",
-    "b09170bc",
-    "00000000",
-    "00000000",
-    "00000000",
-    "3f704a20",
-    "00000000",
-    "00000000",
-    "00000000",
-    "c85bef19",
-    "00000000",
-    "00000000",
-    "ad71085c",
-    "b88f46bf",
-    "bc1f93c3",
-    "ab2fdaa1",
-    "00000000",
-    "1cb3e57e",
-    "1195a71f",
-    "00000000",
-    "00000000",
-    "c3d5d3e2",
-    "00000000",
-    "00000000",
-    "00000000",
-    "3684fc19",
-    "00000000",
-    "00000000",
-    "00000000",
-    "aa0b5263",
-    "00000000",
-    "00000000",
-    "00000000",
-    "9eed1400"
+const long unsigned int xCLic[] = {
+    0xa1732c11,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xb09170bc,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x3f704a20,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xc85bef19,
+    0x00000000,
+    0x00000000,
+    0xad71085c,
+    0xb88f46bf,
+    0xbc1f93c3,
+    0xab2fdaa1,
+    0x00000000,
+    0x1cb3e57e,
+    0x1195a71f,
+    0x00000000,
+    0x00000000,
+    0xc3d5d3e2,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x3684fc19,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xaa0b5263,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x9eed1400
   };
 
   // Map code - souris
-const char* ySignals[] = {
-    "00000000",
-    "00000000",
-    "00000000",
-    "00000000",
-    "d35a479a",
-    "00000000",
-    "00000000",
-    "00000000",
-    "61d3f476",
-    "00000000",
-    "00000000",
-    "00000000",
-    "ef24cc43",
-    "00000000",
-    "00000000",
-    "b99cc67a",
-    "c4bb04dd",
-    "de833e19",
-    "8f6735e5",
-    "67b90ec",
-    "eb40c2",
-    "f5cd0263",
-    "00000000",
-    "00000000",
-    "a80d2f26",
-    "00000000",
-    "00000000",
-    "00000000",
-    "1abc575d",
-    "00000000",
-    "00000000",
-    "00000000",
-    "8e42ada7",
-    "00000000",
-    "00000000",
-    "00000000",
-    "83246f44"
+const long unsigned int ySignals[] = {
+    0xc83c093b,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xd35a479a,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x61d3f476,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0xef24cc43,
+    0x00000000,
+    0x00000000,
+    0xb99cc67a,
+    0xc4bb04dd,
+    0xde833e19,
+    0x8f6735e5,
+    0x67b90ec,
+    0xeb40c2,
+    0xf5cd0263,
+    0x00000000,
+    0x00000000,
+    0xa80d2f26,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x1abc575d,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x8e42ada7,
+    0x00000000,
+    0x00000000,
+    0x00000000,
+    0x83246f44
   };
 
 class MouseRptParser : public MouseReportParser
@@ -196,18 +196,6 @@ void setup()
   irrecv.enableIRIn(); // Start the receiver
 }
 
-bool isEqual(char ref[], String myValue) {
-  if(myValue.length() != strlen(ref)){
-      return false;
-    }
-  for (int i = 0; i < myValue.length(); i++) {
-    if (myValue[i] != ref[i]) {
-      return false;
-    }
-  }
-  return true;
-}
-
 void loop()
 {
   if (irrecv.decode(&results)) {
@@ -216,16 +204,22 @@ void loop()
       isActive = !isActive;
       Serial.println("Souris active : " + String(isActive));
     }
-    for (int i = 0; i < sizeArray; i++) {
-      if (isEqual(xNoCLic[i], String(results.value, HEX))) {
-        clic = 0;
-        x = i - 18;
-        break;
+    if(results.value == 0xdf2d9f85){
+      clic = 0;
+      x = 0;
+    }
+    else{
+      for (int i = 0; i < sizeArray; i++) {
+        if(xNoCLic[i] == results.value) {
+          clic = 0;
+          x = i - 18;
+          break;
+        }
       }
     }
 
     for (int i = 0; i < sizeArray; i++) {
-      if (isEqual(xCLic[i], (String(results.value, HEX)))) {
+      if(xCLic[i] == results.value) {
         clic = 1;
         x = i - 18;
         break;
@@ -236,11 +230,18 @@ void loop()
     } else {
       //Mouse.release();
     }
-    for (int i = 0; i < sizeArray; i++) {
-      if (isEqual(ySignals[i], (String(results.value, HEX)))) {
-        y = i - 18;
-        //Mouse.move(x, y);
-        break;
+    if(results.value == 0x6bd415e2){
+      clic = 0;
+      y = 0;
+      //Mouse.move(x, y);
+    }
+    else{
+      for (int i = 0; i < sizeArray; i++) {
+        if(ySignals[i] == results.value) {
+          y = i - 18;
+          //Mouse.move(x, y);
+          break;
+        }
       }
     }
     irrecv.resume(); // Receive the next value
