@@ -238,11 +238,12 @@ void loop()
       for (int i=0; i<sizeArray; i++) {
         if(ySignals[i] == results.value) {
           y=i-18;
-          Mouse.move(x,y);
           break;
         }
       }
     }
+    Mouse.move(x,y);
+    
     irrecv.resume(); // Receive the next value
     Serial.println("x: " + String(x) + " ; y: " + String(y));
   }
