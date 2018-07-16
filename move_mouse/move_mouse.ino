@@ -10,13 +10,16 @@
 #endif
 
 const int RECV_PIN = 2;
-const String ACTIVATION_CODE = "5c3aed17"; // code d'activation de la souris (envoyé par la télécommande universelle)
+
+const bool ARDUINO_PRINCIPAL = false;
+const long unsigned int ACTIVATION_CODE_0 = 0x617058a7; // code d'activation de la souris (envoyé par la télécommande universelle)
+const long unsigned int ACTIVATION_CODE_1 = 0x617008f7;
 
 IRrecv irrecv(RECV_PIN);
 decode_results results;
 
 int compteurSequenceArret = 0;
-bool isActive = true;
+bool isActive = ARDUINO_PRINCIPAL;
 int clic=0;
 int x=0;
 int y=0;
@@ -199,52 +202,57 @@ void setup()
 void loop()
 {
   if (irrecv.decode(&results)) {
-    //Serial.println(String(results.value, HEX));
-    if(String(results.value, HEX) == ACTIVATION_CODE){ 
-      isActive = !isActive;
-       //Serial.println("Souris active : " + String(isActive));
+    Serial.println(String(results.value, HEX));
+    
+    if((ARDUINO_PRINCIPAL && results.value == ACTIVATION_CODE_0) || (!ARDUINO_PRINCIPAL && results.value == ACTIVATION_CODE_1)){ 
+      isActive = true;
+    } else if (results.value == ACTIVATION_CODE_0 || results.value == ACTIVATION_CODE_1) {
+      isActive = false;
     }
-     if(results.value == 0xdf2d9f85){
-      clic = 0;
-      x = 0;
-    }
-    else{
-      for (int i=0; i<sizeArray; i++) {
-        if(xNoCLic[i] == results.value) {
-          clic=0;
-          x = i-18;
-          break;
+
+    if(isActive){
+       if(results.value == 0xdf2d9f85){
+        //clic = 0;
+        x = 0;
+      }
+      else{
+        for (int i=0; i<sizeArray; i++) {
+          if(xNoCLic[i] == results.value) {
+            clic=0;
+            x = i-18;
+            break;
+          }
         }
       }
-    }
-      for (int i=0; i<sizeArray; i++) {
-        if(xCLic[i] == results.value) {
-          clic=1;
-          x = i-18;
-          break;
+        for (int i=0; i<sizeArray; i++) {
+          if(xCLic[i] == results.value) {
+            clic=1;
+            x = i-18;
+            break;
+          }
+        }
+        if(clic==1) {
+          Mouse.press();
+        } else {
+          Mouse.release();
+        }
+        if(results.value == 0x6bd415e2){
+        //clic = 0;
+        y = 0;
+        //Mouse.move(x, y);
+      }
+      else{
+        for (int i=0; i<sizeArray; i++) {
+          if(ySignals[i] == results.value) {
+            y=i-18;
+            break;
+          }
         }
       }
-      if(clic==1) {
-        Mouse.press();
-      } else {
-        Mouse.release();
-      }
-      if(results.value == 0x6bd415e2){
-      clic = 0;
-      y = 0;
-      //Mouse.move(x, y);
+      Mouse.move(x,y);
     }
-    else{
-      for (int i=0; i<sizeArray; i++) {
-        if(ySignals[i] == results.value) {
-          y=i-18;
-          break;
-        }
-      }
-    }
-    Mouse.move(x,y);
     
     irrecv.resume(); // Receive the next value
-    Serial.println("x: " + String(x) + " ; y: " + String(y));
+    //Serial.println("x: " + String(x) + " ; y: " + String(y));
   }
 }
