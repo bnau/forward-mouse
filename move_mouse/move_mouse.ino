@@ -1,4 +1,3 @@
-
 #include <hidboot.h>
 #include <usbhub.h>
 #include <Mouse.h>
@@ -11,7 +10,8 @@
 
 const int RECV_PIN = 2;
 
-const bool ARDUINO_PRINCIPAL = false;
+const bool ARDUINO_PRINCIPAL = true;
+const int ACC_FACTOR = ARDUINO_PRINCIPAL ? 2 : 1;
 const long unsigned int ACTIVATION_CODE_0 = 0x617058a7; // code d'activation de la souris (envoyé par la télécommande universelle)
 const long unsigned int ACTIVATION_CODE_1 = 0x617008f7;
 
@@ -202,7 +202,7 @@ void setup()
 void loop()
 {
   if (irrecv.decode(&results)) {
-    Serial.println(String(results.value, HEX));
+    //Serial.println(String(results.value, HEX));
     
     if((ARDUINO_PRINCIPAL && results.value == ACTIVATION_CODE_0) || (!ARDUINO_PRINCIPAL && results.value == ACTIVATION_CODE_1)){ 
       isActive = true;
@@ -249,7 +249,7 @@ void loop()
           }
         }
       }
-      Mouse.move(x,y);
+      Mouse.move(x*ACC_FACTOR,y*ACC_FACTOR);
     }
     
     irrecv.resume(); // Receive the next value
